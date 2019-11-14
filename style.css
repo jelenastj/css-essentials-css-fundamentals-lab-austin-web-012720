@@ -16,7 +16,9 @@ img {
 nav {
     text-align: center;
 }
-a:background-color
+a:background-color {
+  color: red
+}
 
 figcaption {
   font-size:small;
