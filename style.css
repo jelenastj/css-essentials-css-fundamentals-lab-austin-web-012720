@@ -16,7 +16,7 @@ img {
 nav {
     text-align: center;
 }
-a:link {
+a:block {
   color: red
 }
 
