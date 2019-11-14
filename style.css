@@ -15,9 +15,8 @@ img {
 }
 nav {
     text-align: center;
-}
-a:link {
-  color: red;
+    background-color: #FEFF7F;
+;
 }
 
 figcaption {
